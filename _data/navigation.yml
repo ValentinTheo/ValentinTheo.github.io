@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Chiffres coup de poing"
-    url: /Chiffres-coup-de-poing/
+  # - title: "Chiffres coup de poing"
+  #   url: /Chiffres-coup-de-poing/
 
   # - title: "portfolio"
   #   url: /portfolio/    
