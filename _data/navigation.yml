@@ -13,8 +13,8 @@ main:
  - title: "Chiffres coup de poing"
    url: /Chiffres-coup-de-poing/
 
- # - title: "Talks"
-#    url: /talks/    
+ - title: "Talks"
+   url: /talks/    
 
  # - title: "Teaching"
   #  url: /teaching/    
