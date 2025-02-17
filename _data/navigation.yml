@@ -12,14 +12,14 @@ main:
  # - title: "Chiffres coup de poing"
  #   url: /publications/
 
- - title: "CV"
-   url: /cv/    
+  - title: "CV"
+    url: /cv/    
 
  # - title: "Teaching"
   #  url: /teaching/    
     
   - title: "CV2"
-   url: /cv/
+    url: /cv/
         
   #- title: "Blog Posts"
  #   url: /year-archive/
