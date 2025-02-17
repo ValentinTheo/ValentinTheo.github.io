@@ -12,13 +12,13 @@ main:
  # - title: "Chiffres coup de poing"
  #   url: /publications/
 
- - title: "Talks"
+ - title: "CV"
    url: /cv/    
 
  # - title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "CV2"
    url: /cv/
         
   #- title: "Blog Posts"
