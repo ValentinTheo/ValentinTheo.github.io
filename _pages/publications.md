@@ -13,7 +13,7 @@ _This paper studies how firms learn changes in the tax code and its impact on fi
 
 
 * **Charitable Giving, Tax Design, and Tax Consent**, with G. Fack, B. Garbinti, J. Goupille-Lebret\
-__\
+
   
 
 
