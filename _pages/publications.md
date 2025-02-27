@@ -8,21 +8,13 @@ author_profile: true
 ## Work in Progress
 
 * **The Corporate Taxaton of Small-sized Enterprises**\
-_This paper studies how firms learn changes in the tax schedule, how much avoidance is important
-in their behavior and what is the impact of both on the elasticity of taxable income to the
-corporate income tax (CIT). To do so, I use a 20-years panel of tax administrative data on French
-companies with French exhaustive employer-employee data. I leverage the implementation of a
-kink at 38.120AC in the CIT in 2001, under which the tax rate is reduced from 33.3% to 15%.
-I show that firms take years to understand correctly the tax code. On average, it takes 5 years
-for firms to be correct on their tax liability. I find large and dynamic bunching at the kink, up to
-17% of the normal number of firms in 2012. This allows me to compute the elasticity of taxable
-income to the CIT rate, which ranges from 0.03 the first year of the reform to 0.29 ten years after.
-This dynamic pattern is largely explained by learning and also partly by the creation of new firms
-exactly at the kink. From 2013 onward, the bunching mass decreases which coincides with the
-introduction of a new payroll tax credit. Finally, I show that avoidance explains at least a part
-of the observed bunching, while the productivity channel is not consistent with how firms react
-around the kink._\
-**Paper presented at**: CREST 1st year PhD students Workshop (Paris, 2023), CREST Firms & Market Seminar (Paris, 2024), CESifo Public Economics Area Conference (Munich, 2024), ZEW Public Finance Conference (Mannheim 2024), The 80th Annual Congress of the International Institute of Public Finance (Prague, 2024), CREST-INSEE Workshop (Montrouge, 2024), PSE Applied Economics Seminar (Paris, 2024), UC Santa Barbara Brown Bag Seminar (Santa Barbara, 2025)
+_This paper studies how firms learn changes in the tax code and its impact on firm behavior. % and on the elasticity of taxable income to the corporate income tax (CIT). To do so, I use a 30-years panel of tax administrative data on French companies. I leverage a policy reform which reduced the marginal corporate income tax (CIT) rate for firms below a threshold in addition with the firm's reported tax liability allowing to know which firm does or doesn't understand the reform. On average, it takes 4 years for firms to be correct on their tax liability. Firms make binary mistakes, and the learning process is heterogeneous among them. The reform also allows to measure the elasticity of corporate income and thus the contribution of learning to the elasticity. Finally, I use the difference in the learning status to uncover the effects of the policy through a staggered diff-in-diff._\
+**Paper presented at**: CREST 1st year PhD students Workshop (Paris, 2023), CREST Firms & Market Seminar (Paris, 2024), CESifo Public Economics Area Conference (Munich, 2024), ZEW Public Finance Conference (Mannheim 2024), The 80th Annual Congress of the International Institute of Public Finance (Prague, 2024), CREST-INSEE Workshop (Montrouge, 2024), PSE Applied Economics Seminar (Paris, 2024), UC Santa Barbara Brown Bag Seminar (Santa Barbara, 2025), UC Berkeley Public Finance Seminar (Berkeley, 2025)
+
+
+* **Charitable Giving, Tax Design, and Tax Consent**, with G. Fack, B. Garbinti, J. Goupille-Lebret\
+__\
+  
 
 
 ## Non-academic Publications & Papers
