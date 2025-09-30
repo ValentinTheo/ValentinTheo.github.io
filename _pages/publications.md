@@ -37,7 +37,7 @@ the tax schedule and develop a conceptual framework to interpret this heterogene
 reforms, we identify the mechanisms driving behavioral responses. We find strong attachment to charitable giving:
 despite the availability of lower marginal gift prices, many wealth taxpayers deliberately continue to give at higher
 marginal prices. We also provide evidence of differential tax aversion depending on the tax base. Finally, using the
-most recent reform, we estimate a tax-price elasticity of total charitable giving of –0.51 among wealth taxpayers._\
+most recent reform, we estimate a tax-price elasticity of total charitable giving of –0.51 among wealth taxpayers._
 
 ## Selected work in progress
 
