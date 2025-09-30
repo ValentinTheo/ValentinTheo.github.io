@@ -16,12 +16,12 @@ I am on the <span style="color:red">**2025/2026 academic job market**</span>.
 I visited the **University of California, Berkeley**, hosted by **Emmanuel Saez** during the **2025 Spring semester**.
 
 <p align="center" style="color:red">References</p>
-<table>
+<table style="border: none; width: 100%;">
   <tr>
-    <td align="center" href="https://pierrecboyer.com/">Pierre Boyer</td>
-    <td align="center" href="https://faculty.crest.fr/mvisser/">Michael Visser</td>
-    <td align="center" href = "https://www.bertrandgarbinti.com/">Bertrand Garbinti</td>
-    <td align="center" href="https://eml.berkeley.edu/~saez/">Emmanuel Saez</td>
+    <td align="center"><a href="https://pierrecboyer.com/">Pierre Boyer</a></td>
+    <td align="center"><a href="https://faculty.crest.fr/mvisser/">Michael Visser</a></td>
+    <td align="center"><a href = "https://www.bertrandgarbinti.com/">Bertrand Garbinti</a></td>
+    <td align="center"><a href="https://eml.berkeley.edu/~saez/">Emmanuel Saez</a></td>
   </tr>
 </table>
 
