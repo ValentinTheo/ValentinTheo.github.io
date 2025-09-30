@@ -15,10 +15,10 @@ I am on the <span style="color:red">**2025/2026 academic job market**</span>.
 
 I visited the **University of California, Berkeley**, hosted by **Emmanuel Saez** during the **2025 Spring semester**.
 
-<p align="center" style="color:red">References</p>
-<a href="https://pierrecboyer.com/">Pierre Boyer</a> <br><br> <a href="https://faculty.crest.fr/mvisser/">Michael Visser</a> <br><br> <a href = "https://www.bertrandgarbinti.com/">Bertrand Garbinti</a><br><br><a href="https://eml.berkeley.edu/~saez/">Emmanuel Saez</a>
+<p align="center" style="color:red">References</p>&nbsp;<a href="https://pierrecboyer.com/">Pierre Boyer</a>&nbsp; <a href="https://faculty.crest.fr/mvisser/">Michael Visser</a>  &nbsp;<a href = "https://www.bertrandgarbinti.com/">Bertrand Garbinti</a>&nbsp;<a href="https://eml.berkeley.edu/~saez/">Emmanuel Saez</a>
 
 <!-- Secondarily, in studying robust and generalized econometric techniques such as partial identification or non-parametric econometrics, in order to apply them in my research. Additionally, I am curious about the Theory of the Firm and the way one can model production functions. -->
+<br><br> 
 
 __Contact__: [theo.valentin@ensae.fr](theo.valentin@ensae.fr)
 
