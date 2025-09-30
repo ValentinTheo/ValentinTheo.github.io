@@ -8,14 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year PhD candidate at [CREST](https://crest.science/), [ENSAE Paris](https://www.ensae.fr/en/), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) under the supervision of [Pierre Boyer](https://pierrecboyer.com/) and [Michael Visser](https://faculty.crest.fr/mvisser/) since September 2022. 
+I am a 4th year PhD candidate at [CREST](https://crest.science/), [ENSAE Paris](https://www.ensae.fr/en/), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) under the supervision of [Pierre Boyer](https://pierrecboyer.com/) and [Michael Visser](https://faculty.crest.fr/mvisser/) since September 2022. 
 
-I am visiting the **University of California, Berkeley**, hosted by **Emmanuel Saez** for the **2025 Spring semester**.
+I am on the <span style="color:red">**2025/2026 academic job market**</span>.
 
-My interest lies mainly in **Public Economics**. More precisely in
-* corporate taxation
-* the understanding of the tax schedule from economic agents
-* the fairness and efficiency of such tax schedules
+
+I visited the **University of California, Berkeley**, hosted by **Emmanuel Saez** during the **2025 Spring semester**.
+
+<p align="center" style="color:red">References</p>
+<table>
+  <tr>
+    <td align="center" href="https://pierrecboyer.com/">Pierre Boyer</td>
+    <td align="center" href="https://faculty.crest.fr/mvisser/">Michael Visser</td>
+    <td align="center" href = "https://www.bertrandgarbinti.com/">Bertrand Garbinti</td>
+    <td align="center" href="https://eml.berkeley.edu/~saez/">Emmanuel Saez</td>
+  </tr>
+</table>
 
 <!-- Secondarily, in studying robust and generalized econometric techniques such as partial identification or non-parametric econometrics, in order to apply them in my research. Additionally, I am curious about the Theory of the Firm and the way one can model production functions. -->
 
