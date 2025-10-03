@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working papers
 
-* **The Corporate Taxaton of Small-sized Enterprises**\
+* **Non-linear Corporate Income Tax: Learning, Intensive and Extensive Margins**\
 _This paper provides new evidence on how firms learn corporate tax reforms and how the
 latter affects both business creation and firm splitting. I exploit a reform in France that replaced
 the pre-reform linear corporate tax with a progressive bracketed system. Drawing on rich tax
