@@ -74,6 +74,14 @@ most recent reform, we estimate a tax-price elasticity of total charitable givin
   + [Éclairage - L’activité économique française au travers d’articles de presse](https://www.insee.fr/fr/statistiques/5232051?sommaire=5232077), Note de conjoncture, 2021 (available in english [here](https://www.insee.fr/en/statistiques/5351871?sommaire=5233864)).
 * [Innover dans l'administration avec l'IA et la Data Science](https://www.dailymotion.com/video/x84hp0x), [Datadrink](https://www.etalab.gouv.fr/communaute/) from [Etalab](https://www.etalab.gouv.fr/), with Christine Fong and Ruben Partouche, 2021
 
+
+## TA sessions
+
+- [Econometrics - 3A CI/MS](https://www.ensae.fr/courses/156), ENSAE Paris, Pr. Bertrand Garbinti (Graduate level, Fall 2022)
+- [Econometrics 1](https://www.ensae.fr/courses/145), ENSAE Paris, Pr. Xavier d'Haultfoeuille (Graduate level, Fall 2022)
+- [Econometrics 2](https://www.ensae.fr/courses/150), ENSAE Paris, Pr. Michael Visser (Graduate level, Spring 2022)
+- Industrial Organization, Université Paris Descartes, (Undergraduate level, Spring 2021)
+
   
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 <!-- 
