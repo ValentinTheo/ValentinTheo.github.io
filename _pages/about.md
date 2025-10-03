@@ -53,7 +53,7 @@ Firms' reported tax amount (dotted) and true tax code (plain) before and after t
   <img src="../files/learning.gif" width="700">
 </p>
 
-Business creation by taxable income, across years 
+Business creation by taxable income, across years (pre-reform in red, post-reform in blue)
 
 <p align="center">
   <img src="../files/business_creation.gif" width="700">
