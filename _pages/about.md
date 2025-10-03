@@ -18,13 +18,11 @@ I visited the **University of California, Berkeley**, hosted by **Emmanuel Saez*
 <p align="center" style="color:red">References</p>&nbsp;<a href="https://pierrecboyer.com/">Pierre Boyer</a>&nbsp; <a href="https://faculty.crest.fr/mvisser/">Michael Visser</a>  &nbsp;<a href = "https://www.bertrandgarbinti.com/">Bertrand Garbinti</a>&nbsp;<a href="https://eml.berkeley.edu/~saez/">Emmanuel Saez</a>
 
 <!-- Secondarily, in studying robust and generalized econometric techniques such as partial identification or non-parametric econometrics, in order to apply them in my research. Additionally, I am curious about the Theory of the Firm and the way one can model production functions. -->
-<br> 
-
 __Contact__: [theo.valentin@ensae.fr](theo.valentin@ensae.fr)
 
 ## Curriculum Vitae
 
-<iframe src="https://valentintheo.github.io/files/Curriculum_Vitae_woWInP.pdf" width="80%" height="900px">
+<iframe src="https://valentintheo.github.io/files/Curriculum_Vitae_woWInP.pdf" width="100%" height="900px">
     <p>Your browser does not support iframes. 
        <a href="https://valentintheo.github.io/files/Curriculum_Vitae_woWInP.pdf">Download the PDF</a>.</p>
 </iframe>
