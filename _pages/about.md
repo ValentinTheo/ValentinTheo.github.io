@@ -50,7 +50,13 @@ margins in the welfare effect of tax reforms._
 Firms' reported tax amount (dotted) and true tax code (plain) before and after the reforms (2001-2002)
 
 <p align="center">
-  <img src="../files/test.gif" width="700">
+  <img src="../files/learning.gif" width="700">
+</p>
+
+Business creation by taxable income, across years 
+
+<p align="center">
+  <img src="../files/business_creation.gif" width="700">
 </p>
 
 **Paper presented at**: UC Berkeley Public Finance Seminar (Berkeley, 2025), Center for Business Taxation Doctoral Conference (Oxford, 2025), UC Santa Barbara Brown Bag Seminar (Santa Barbara, 2025), University of Utah Lunch Seminar (Salt Lake City, 2025), EEA (Bordeaux, 2025), PSE Applied Economics Seminar (Paris, 2024), CESifo Public Economics Area Conference (Munich, 2024), ZEW Public Finance Conference (Mannheim 2024), The 80th Annual Congress of the International Institute of Public Finance (Prague, 2024)  
