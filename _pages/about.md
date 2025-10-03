@@ -45,7 +45,7 @@ two-way fixed effects estimation to measure the extent of both business creation
 through incorporation. I find both a large response of business creation and a high sensitivity
 of incorporation. My findings highlight the delay in behavioral responses due to learning, the
 difference between the real and reported taxable income elasticity and the importance of extensive
-margins in the welfare effect of tax reforms._\
+margins in the welfare effect of tax reforms._
 
 Firms' reported tax amount (dotted) and true tax code (plain) before and after the reforms (2001-2002)
 
