@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+<object data="https://valentintheo.github.io/files/Curriculum_Vitae_woWInP.pdf" type="application/pdf" width="80%" height="600px">
+    <p>Your browser does not support PDFs.
+       <a href="[files/mygraph.pdf](https://valentintheo.github.io/files/Curriculum_Vitae_woWInP.pdf)">Download the PDF</a>.</p>
+</object>
+
 You can find my full CV [here](https://valentintheo.github.io/files/Curriculum_Vitae_woWInP.pdf)
 
 ## Education
