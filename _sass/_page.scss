@@ -332,7 +332,12 @@
     height: 100px;
   }
 }
-
+.author__avatar {
+  border-radius: 0 !important; /* removes the circle */
+  width: auto !important;
+  height: auto !important;
+  overflow: visible !important;
+}
 .comment__avatar {
   width: 40px;
   height: 40px;
