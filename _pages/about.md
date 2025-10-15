@@ -29,7 +29,7 @@ __Contact__: [theo.valentin@ensae.fr](theo.valentin@ensae.fr)
 </iframe>
 
 
-## Working papers
+## Job Market Paper
 
 * **Non-linear Corporate Income Tax: Learning, Intensive and Extensive Margins**\
 _This paper provides new evidence on how firms learn corporate tax reforms and how the
@@ -62,6 +62,7 @@ Business creation by taxable income, across years (pre-reform in red, post-refor
 
 **Paper presented at**: UC Berkeley Public Finance Seminar (Berkeley, 2025), Center for Business Taxation Doctoral Conference (Oxford, 2025), UC Santa Barbara Brown Bag Seminar (Santa Barbara, 2025), University of Utah Lunch Seminar (Salt Lake City, 2025), EEA (Bordeaux, 2025), PSE Applied Economics Seminar (Paris, 2024), CESifo Public Economics Area Conference (Munich, 2024), ZEW Public Finance Conference (Mannheim 2024), The 80th Annual Congress of the International Institute of Public Finance (Prague, 2024)  
 
+## Working papers
 
 * **Charitable Giving, Tax Design, and Tax Consent**, with G. Fack, B. Garbinti, J. Goupille-Lebret\
 _This paper examines how the design of tax incentives shapes charitable giving and how non-monetary motives
