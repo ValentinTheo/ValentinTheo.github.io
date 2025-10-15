@@ -21,14 +21,6 @@ I visited the **University of California, Berkeley**, hosted by **Emmanuel Saez*
 <!-- Secondarily, in studying robust and generalized econometric techniques such as partial identification or non-parametric econometrics, in order to apply them in my research. Additionally, I am curious about the Theory of the Firm and the way one can model production functions. -->
 __Contact__: [theo.valentin@ensae.fr](theo.valentin@ensae.fr)
 
-## Curriculum Vitae
-
-<iframe src="https://valentintheo.github.io/files/Curriculum_Vitae_woWInP.pdf" width="100%" height="900px">
-    <p>Your browser does not support iframes. 
-       <a href="https://valentintheo.github.io/files/Curriculum_Vitae_woWInP.pdf">Download the PDF</a>.</p>
-</iframe>
-
-
 ## Job Market Paper
 
 * **Non-linear Corporate Income Tax: Learning, Intensive and Extensive Margins**\
@@ -89,6 +81,13 @@ most recent reform, we estimate a tax-price elasticity of total charitable givin
   + [Éclairage - L’activité économique française au travers d’articles de presse](https://www.insee.fr/fr/statistiques/5232051?sommaire=5232077), Note de conjoncture, 2021 (available in english [here](https://www.insee.fr/en/statistiques/5351871?sommaire=5233864)).
 <!-- * [Innover dans l'administration avec l'IA et la Data Science](https://www.dailymotion.com/video/x84hp0x), [Datadrink](https://www.etalab.gouv.fr/communaute/) from [Etalab](https://www.etalab.gouv.fr/), with Christine Fong and Ruben Partouche, 2021 -->
 
+
+## Curriculum Vitae
+
+<iframe src="https://valentintheo.github.io/files/Curriculum_Vitae_woWInP.pdf" width="100%" height="900px">
+    <p>Your browser does not support iframes. 
+       <a href="https://valentintheo.github.io/files/Curriculum_Vitae_woWInP.pdf">Download the PDF</a>.</p>
+</iframe>
 
 ## TA sessions
 
