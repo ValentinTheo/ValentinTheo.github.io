@@ -69,11 +69,18 @@ most recent reform, we estimate a tax-price elasticity of total charitable givin
 
 
 ## Curriculum Vitae
+<iframe
+  src="https://docs.google.com/gview?url=https://valentintheo.github.io/files/Curriculum_Vitae_woWInP.pdf&embedded=true"
+  style="width:100%; height:900px;"
+  frameborder="0">
+</iframe>
 
+<!--
 <iframe src="https://valentintheo.github.io/files/Curriculum_Vitae_woWInP.pdf" width="100%" height="900px">
     <p>Your browser does not support iframes. 
        <a href="https://valentintheo.github.io/files/Curriculum_Vitae_woWInP.pdf">Download the PDF</a>.</p>
 </iframe>
+-->
 
 ## TA sessions
 
