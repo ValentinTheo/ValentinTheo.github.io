@@ -24,21 +24,7 @@ __Contact__: [theo.valentin@ensae.fr](theo.valentin@ensae.fr)
 ## Job Market Paper
 
 * **Non-linear Corporate Income Tax: Learning, Intensive and Extensive Margins**\
-_This paper provides new evidence on how firms learn corporate tax reforms and how the
-latter affects both business creation and firm splitting. I exploit a reform in France that replaced
-the pre-reform linear corporate tax with a progressive bracketed system. Drawing on rich tax
-administrative data and a unique feature of them, I find that firms, on average, took 4 years to
-understand the tax reform. The year of the reform, the fraction of firms making mistakes on their
-tax amount increased by 40pp. This mislearning implied an overpayment to the tax administration
-of 5,5% of firms’ taxable income on average, which can reach more than 8% for small firms.
-Larger and more profitable firms learn faster as well as more financially literate business owners.
-When responses have stabilized, I rely on the bunching at the discontinuity to estimate an elasticity
-of reported taxable income of 0.4. Furthermore, I rely on the discontinuity of the reform and on a
-two-way fixed effects estimation to measure the extent of both business creation and firm splitting
-through incorporation. I find both a large response of business creation and a high sensitivity
-of incorporation. My findings highlight the delay in behavioral responses due to learning, the
-difference between the real and reported taxable income elasticity and the importance of extensive
-margins in the welfare effect of tax reforms._
+This paper presents new evidence on how corporate income tax (CIT) reforms affect firm behavior. I study a French reform that replaced a linear corporate tax rate with a progressive, bracketed schedule. Using detailed administrative tax data and exploiting a unique institutional feature, I find that between 28% and 48% of small and medium sized businesses are inattentive to tax reforms. By analyzing excess mass around the new tax bracket and comparing attentive and inattentive firms, I estimate the cost of inattention to be 926€ per firm, equivalent to 2.6% of taxable income. Inattention constitutes a major friction that delays behavioral responses in the short run. Once the responses at the threshold have stabilized, I estimate a long-run elasticity of 0.132, indicating that incumbent firms are relatively inelastic with respect to the corporate tax rate. The reform had substantial extensive margin effects. First, unincorporated businesses reacted to the lower average corporate tax rate by incorporating and by splitting revenues across multiple entities. Although this response is highly sensitive, rising by 45%, its overall magnitude remains limited. Second, I find a sizeable business creation effect. Using a two-way fixed effects PPML event-study design combined with treatment intensity variation at the county level, I estimate the increase in business creation to be 102% and an average treatment effect of 15%. Overall, the findings reveal that corporate tax reforms generate a wide range of behavioral responses. Understanding and aggregating these channels is essential to improve the design and evaluation of corporate income tax systems.
 
 Firms' reported tax amount (dotted) and true tax code (plain) before and after the reforms (2001-2002)
 
