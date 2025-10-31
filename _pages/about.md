@@ -16,7 +16,7 @@ I am on the <span style="color:red">**2025/2026 academic job market**</span>.
 
 I visited the **University of California, Berkeley**, hosted by **Emmanuel Saez** during the **2025 Spring semester**.
 
-<p align="center" style="color:red">References</p>&nbsp;<a href="https://pierrecboyer.com/">Pierre Boyer</a>&nbsp; <a href="https://faculty.crest.fr/mvisser/">Michael Visser</a>  &nbsp;<a href = "https://www.bertrandgarbinti.com/">Bertrand Garbinti</a>&nbsp;<a href="https://eml.berkeley.edu/~saez/">Emmanuel Saez</a>
+<p align="center" style="color:red">**References**</p>&nbsp;<a href="https://pierrecboyer.com/">Pierre Boyer</a>&nbsp; <a href="https://faculty.crest.fr/mvisser/">Michael Visser</a>  &nbsp;<a href = "https://www.bertrandgarbinti.com/">Bertrand Garbinti</a>&nbsp;<a href="https://eml.berkeley.edu/~saez/">Emmanuel Saez</a>
 
 <!-- Secondarily, in studying robust and generalized econometric techniques such as partial identification or non-parametric econometrics, in order to apply them in my research. Additionally, I am curious about the Theory of the Firm and the way one can model production functions. -->
 __Contact__: [theo.valentin@ensae.fr](theo.valentin@ensae.fr)
@@ -89,9 +89,9 @@ most recent reform, we estimate a tax-price elasticity of total charitable givin
 
 ## TA sessions
 
+- [Econometrics 2](https://www.ensae.fr/courses/150), ENSAE Paris, Pr. Michael Visser (Graduate level, Spring 2023)
 - [Econometrics - 3A CI/MS](https://www.ensae.fr/courses/156), ENSAE Paris, Pr. Bertrand Garbinti (Graduate level, Fall 2022)
 - [Econometrics 1](https://www.ensae.fr/courses/145), ENSAE Paris, Pr. Xavier d'Haultfoeuille (Graduate level, Fall 2022)
-- [Econometrics 2](https://www.ensae.fr/courses/150), ENSAE Paris, Pr. Michael Visser (Graduate level, Spring 2022)
 - Industrial Organization, Université Paris Descartes, (Undergraduate level, Spring 2021)
 
 
