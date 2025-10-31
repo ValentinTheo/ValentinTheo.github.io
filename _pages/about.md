@@ -24,7 +24,14 @@ __Contact__: [theo.valentin@ensae.fr](theo.valentin@ensae.fr)
 ## Job Market Paper
 
 * **Non-linear Corporate Income Tax: Learning, Intensive and Extensive Margins**\
-The welfare implications of corporate tax reforms are made unclear by the variety of effects they generate. This paper estimates both the effect of frictions, especially attention, on the corporate taxable income elasticity and the business creation effect of corporate tax reforms. I study a French reform that replaced a linear corporate tax rate with a progressive schedule. I rely on detailed administrative tax data and exploit a unique institutional feature, the reported tax amount. First, I exploit the excess mass at the bracket to estimate the elasticity and show that overall frictions attenuate it by 46% in the short-run. Then, I infer that at most 19% of firms are inattentive to tax reforms, i.e. they use the pre-reform tax code instead of the current one. This implies a cost of inattention of 1.67% of their taxable income. Second, I find a sizeable positive business creation effect of the reform. Using a two-way fixed effects PPML event-study design combined with treatment intensity variation at the county level, I estimate an average treatment effect of 15%. However, unincorporated businesses reacted to the lower average corporate tax rate by incorporating and by splitting revenues across multiple entities. This creates a pure tax revenue loss. Although this response is highly sensitive, rising by 45%, its overall magnitude remains limited.
+The welfare implications of corporate tax reforms are made unclear by the variety of effects they generate.
+    This paper estimates both the effect of frictions, especially attention, on the corporate taxable income elasticity and the business creation effect of corporate tax reforms. 
+    I study a reform in France that replaced the existing flat corporate income tax with a threshold-based two-rates progressive system.
+    I rely on detailed administrative tax data and exploit a unique institutional feature, the reported tax amount.
+    First, I infer that at most 19% of firms are inattentive to tax reforms, _i.e._ they use the pre-reform tax code instead of the current one. This implies a cost of inattention of 1.8\% of their taxable income.
+    Second, I exploit the excess mass at the threshold to estimate the elasticity and show that overall frictions attenuate it by 39% in the short-run.  
+    Third, I find a sizeable positive business creation effect of the reform. Using a two-way fixed effects PPML event-study design combined with treatment intensity variation at the county level, I estimate an average treatment effect of 15%. However, unincorporated businesses reacted to the lower average corporate tax rate by incorporating and by splitting revenues across multiple entities. This creates a pure tax revenue loss. Although this response is highly sensitive, rising by 45%, its magnitude remains limited. 
+    Overall, the welfare gains of moving from a linear corporate income tax to a progressive schedule are driven by business entry.
 
 Firms' reported tax amount (dotted) and true tax code (plain) before and after the reforms (2001-2002)
 
@@ -43,17 +50,13 @@ Business creation by taxable income, across years (pre-reform in red, post-refor
 ## Working papers
 
 * **Charitable Giving, Tax Design, and Tax Consent**, with G. Fack, B. Garbinti, J. Goupille-Lebret\
-_This paper examines how the design of tax incentives shapes charitable giving and how non-monetary motives
-influence such responses. We exploit the French institutional context, where a wealth tax has existed for decades, and
-study three reforms: one that introduced a wealth tax credit for charitable donations and two that altered taxpayers’
-eligibility for the wealth tax. Our analysis relies on comprehensive French administrative panel data linking the
-universe of income tax returns with the universe of wealth tax returns, containing detailed information on income,
-wealth, taxation, and charitable contributions. We document substantial heterogeneity in giving behavior across
-the tax schedule and develop a conceptual framework to interpret this heterogeneity. Exploiting variation from the
-reforms, we identify the mechanisms driving behavioral responses. We find strong attachment to charitable giving:
-despite the availability of lower marginal gift prices, many wealth taxpayers deliberately continue to give at higher
-marginal prices. We also provide evidence of differential tax aversion depending on the tax base. Finally, using the
-most recent reform, we estimate a tax-price elasticity of total charitable giving of –0.51 among wealth taxpayers._
+_In this paper, we examine how the design of tax incentives for charitable giving influences donation behavior, and how non-monetary motives shape these responses.
+    We focus on the French context, where a wealth tax has existed for several decades, and exploit multiple reforms that altered the marginal tax price of charitable gifts for wealth taxpayers.
+    Our analysis draws on rich French administrative panel data linking the universe of income tax returns with the universe of wealth tax returns.
+    We document strong heterogeneity in charitable giving behavior between wealth taxpayers and those subject only to the income tax, and we develop a conceptual framework to rationalize this finding.
+    Using tax variation induced by the reforms, we study the main channels driving behavioral responses.
+    First, we find evidence of a strong attachment to charities: despite being able to benefit from a lower marginal price of gifts, many wealth taxpayers deliberately continue to pay the higher marginal price.
+    Finally, when individuals lose eligibility for the wealth tax credit, we observe limited substitution toward the income tax credit, which suggests differential tax aversion depending on the tax base to which the incentive applies._
 
 ## Selected work in progress
 
