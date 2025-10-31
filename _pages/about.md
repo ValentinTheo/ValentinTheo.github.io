@@ -65,12 +65,12 @@ _In this paper, we examine how the design of tax incentives for charitable givin
 
 
 ## Curriculum Vitae
-<iframe src="https://valentintheo.github.io/files/CV.pdf" width="100%" height="900px">
+<iframe src="https://valentintheo.github.io/files/VALENTIN_CREST_CV.pdf" width="100%" height="900px">
     <p>Your browser does not support iframes. 
-       <a href="https://valentintheo.github.io/files/CV.pdf">Download the PDF</a>.</p>
+       <a href="https://valentintheo.github.io/files/VALENTIN_CREST_CV.pdf">Download the PDF</a>.</p>
 </iframe>
 <p>
-  If the PDF viewer doesn’t load, you can <a href="https://valentintheo.github.io/files/CV.pdf" target="_blank">download it here</a>.
+  If the PDF viewer doesn’t load, you can <a href="https://valentintheo.github.io/files/VALENTIN_CREST_CV.pdf" target="_blank">download it here</a>.
 </p>
 
 <!--
