@@ -12,9 +12,9 @@ I am a 4th year PhD candidate at [CREST](https://crest.science/), [ENSAE Paris](
 
 My research lies in the field of **Public Economics** where I especially study the different channels through which taxes affect corporate behavior using both theory and empirical analysis.
 
-I am on the <span style="color:red">**2025/2026 academic job market**</span>.
-
 I visited the **University of California, Berkeley**, hosted by **Emmanuel Saez** during the **2025 Spring semester**.
+
+I am on the <span style="color:red">**2025/2026 academic job market**</span>.
 
 <span align = 'center' style="color:red">**References**</span>&nbsp;<a href="https://pierrecboyer.com/">Pierre Boyer</a>&nbsp; <a href="https://faculty.crest.fr/mvisser/">Michael Visser</a>  &nbsp;<a href = "https://www.bertrandgarbinti.com/">Bertrand Garbinti</a>&nbsp;<a href="https://eml.berkeley.edu/~saez/">Emmanuel Saez</a>
 
