@@ -42,7 +42,7 @@ Business creation by taxable income, across years (pre-reform in red, post-refor
 
 ## Working papers
 
-* **Charitable Giving, Tax Design, and Tax Consent**, with G. Fack, B. Garbinti, J. Goupille-Lebret\
+* **[Charitable Giving, Tax Design, and Tax Consent](https://www.dropbox.com/scl/fi/5npv6tb26i0zcmcx2i4og/FGGV_CharitableGivings.pdf?rlkey=lojtd9v0ot3acm8j47sx1gp23&st=wtm5qt5q&dl=0)**, with G. Fack, B. Garbinti, J. Goupille-Lebret\
 _In this paper, we examine how the design of tax incentives for charitable giving influences donation behavior, and how non-monetary motives shape these responses.
     We focus on the French context, where a wealth tax has existed for several decades, and exploit multiple reforms that altered the marginal tax price of charitable gifts for wealth taxpayers.
     Our analysis draws on rich French administrative panel data linking the universe of income tax returns with the universe of wealth tax returns.
