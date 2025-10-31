@@ -404,3 +404,15 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+a,
+a:visited {
+  color: #00084d;  // your preferred link color
+}
+
+a:hover,
+a:focus {
+  color: #00084d;  // hover color
+  text-decoration: underline;
+}
