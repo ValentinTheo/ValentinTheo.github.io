@@ -23,7 +23,7 @@ __Contact__: [theo.valentin@ensae.fr](theo.valentin@ensae.fr)
 
 ## Job Market Paper
 
-* **[Non-linear Corporate Income Tax: Learning, Intensive and Extensive Margins](https://www.dropbox.com/scl/fi/evq395dfftcgkc28s3l0d/VALENTIN_CREST_JMP.pdf?rlkey=bgeinsm24iyzmg1ra5z74w5h2&st=li97vj1f&dl=0)**\ ([Slides](../files/JMP.pdf))
+* **Non-linear Corporate Income Tax: Learning, Intensive and Extensive Margins**
 The welfare implications of corporate tax reforms are made unclear by the variety of effects they generate. This paper estimates both the effect of frictions, especially attention, on the corporate taxable income elasticity and the business creation effect of corporate tax reforms. I study a reform in France that replaced the existing flat corporate income tax with a threshold-based two-rates progressive system. I rely on detailed administrative tax data and exploit a unique institutional feature, the reported tax amount. First, I infer that at most 19% of firms are inattentive to tax reforms, _i.e._ they use the pre-reform tax code instead of the current one. This implies a cost of inattention of 1.8% of their taxable income. Second, I exploit the excess mass at the threshold to estimate the elasticity and show that overall frictions attenuate it by 39% in the short-run.  Third, I find a sizeable positive business creation effect of the reform. Using a two-way fixed effects PPML event-study design combined with treatment intensity variation at the county level, I estimate an average treatment effect of 15%. However, unincorporated businesses reacted to the lower average corporate tax rate by incorporating and by splitting revenues across multiple entities. This creates a pure tax revenue loss. Although this response is highly sensitive, rising by 45%, its magnitude remains limited. Overall, the welfare gains of moving from a linear corporate income tax to a progressive schedule are driven by business entry.
 
 Firms' reported tax amount (dotted) and true tax code (plain) before and after the reforms (2001-2002)
@@ -42,7 +42,7 @@ Business creation by taxable income, across years (pre-reform in red, post-refor
 
 ## Working papers
 
-* **[Charitable Giving, Tax Design, and Tax Consent](https://www.dropbox.com/scl/fi/5npv6tb26i0zcmcx2i4og/FGGV_CharitableGivings.pdf?rlkey=lojtd9v0ot3acm8j47sx1gp23&st=n3lfsfcp&dl=0)**, with G. Fack, B. Garbinti, J. Goupille-Lebret\
+* **Charitable Giving, Tax Design, and Tax Consent**, with G. Fack, B. Garbinti, J. Goupille-Lebret\
 _In this paper, we examine how the design of tax incentives for charitable giving influences donation behavior, and how non-monetary motives shape these responses.
     We focus on the French context, where a wealth tax has existed for several decades, and exploit multiple reforms that altered the marginal tax price of charitable gifts for wealth taxpayers.
     Our analysis draws on rich French administrative panel data linking the universe of income tax returns with the universe of wealth tax returns.
