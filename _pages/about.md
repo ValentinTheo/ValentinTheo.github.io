@@ -20,7 +20,7 @@ My research lies in the field of **Public Economics** and especially taxation wh
 <!-- Secondarily, in studying robust and generalized econometric techniques such as partial identification or non-parametric econometrics, in order to apply them in my research. Additionally, I am curious about the Theory of the Firm and the way one can model production functions. -->
 __Contact__: [theo.valentin@ensae.fr](theo.valentin@ensae.fr)
 
-## Job Market Paper
+## Working papers
 
 * **Non-linear Corporate Income Tax: Learning, Intensive and Extensive Margins**  
 The welfare implications of corporate tax reforms are made unclear by the variety of effects they generate. This paper estimates both the effect of frictions, especially attention, on the corporate taxable income elasticity and the business creation effect of corporate tax reforms. I study a reform in France that replaced the existing flat corporate income tax with a threshold-based two-rates progressive system. I rely on detailed administrative tax data and exploit a unique institutional feature, the reported tax amount. First, I infer that at most 19% of firms are inattentive to tax reforms, _i.e._ they use the pre-reform tax code instead of the current one. This implies a cost of inattention of 1.8% of their taxable income. Second, I exploit the excess mass at the threshold to estimate the elasticity and show that overall frictions attenuate it by 39% in the short-run.  Third, I find a sizeable positive business creation effect of the reform. Using a two-way fixed effects PPML event-study design combined with treatment intensity variation at the county level, I estimate an average treatment effect of 15%. However, unincorporated businesses reacted to the lower average corporate tax rate by incorporating and by splitting revenues across multiple entities. This creates a pure tax revenue loss. Although this response is highly sensitive, rising by 45%, its magnitude remains limited. Overall, the welfare gains of moving from a linear corporate income tax to a progressive schedule are driven by business entry.
@@ -39,7 +39,6 @@ The welfare implications of corporate tax reforms are made unclear by the variet
 
 **Paper presented at**: UC Berkeley Public Finance Seminar (Berkeley, 2025), Center for Business Taxation Doctoral Conference (Oxford, 2025), UC Santa Barbara Brown Bag Seminar (Santa Barbara, 2025), University of Utah Lunch Seminar (Salt Lake City, 2025), EEA (Bordeaux, 2025), PSE Applied Economics Seminar (Paris, 2024), CESifo Public Economics Area Conference (Munich, 2024), ZEW Public Finance Conference (Mannheim 2024), The 80th Annual Congress of the International Institute of Public Finance (Prague, 2024)  
 
-## Working papers
 
 * **Taxing Digital Addiction**  
 _Social media consumption relies on users' behavioral biases while also generating negative externalities, like tobacco and alcohol do, yet as opposed to these goods they are largely untaxed. This paper develops a model of optimal taxation of a monopoly platform running a social media that jointly invests in an addictive technology and sets its ad-load. While generating consumer surplus, the social media harms users through overconsumption from addiction and harms non-users through negative consumption externalities. Because addiction investment is observable only by the platform, the social planner relies on a tax on total engagement as an indirect corrective instrument. A key friction is that the platform can offset the tax by adjusting its ad-load, limiting its effectiveness. I characterize the optimal tax through a sufficient statistics formula: the tax equals a welfare-weighted sum of the elasticities of addiction, ad-load and engagement to the tax. When the welfare gains of reducing addiction are large, the tax rate reaches its upper bound through the platform's participation constraint and the social planner optimally extracts all platform surplus._
@@ -56,7 +55,7 @@ _In this paper, we examine how the design of tax incentives for charitable givin
 ## Selected work in progress
 
 
-* **Optimal Corporate Taxation with Welfare Weights**
+* **Optimal Corporate Taxation with Welfare Weights**  
 
 
 ## Non-academic Publications & Papers
