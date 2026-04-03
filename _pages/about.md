@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year PhD candidate at [CREST](https://crest.science/), [ENSAE Paris](https://www.ensae.fr/en/), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) under the supervision of [Pierre Boyer](https://pierrecboyer.com/) and [Michael Visser](https://faculty.crest.fr/mvisser/) since September 2022. 
+I am a 4th year PhD candidate at [CREST](https://crest.science/), [ENSAE Paris](https://www.ensae.fr/en/), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) under the supervision of [Pierre Boyer](https://pierrecboyer.com/) and [Michael Visser](https://faculty.crest.fr/mvisser/) since September 2022. I visited the **University of California, Berkeley**, hosted by **Emmanuel Saez** during the **2025 Spring semester**.
 
-My research lies in the field of **Public Economics** where I especially study the different channels through which taxes affect corporate behavior using both theory and empirical analysis.
+In September 2026 I will join [Sciences Po Paris](https://www.sciencespo.fr/recherche/en/) as a post-doctoral fellow working with [Julia Cagé](https://juliacage.com/fr/) on her ERC Consolidator Grant “Elections, Ecological Inference and Social Capital in Historical Perspective” (ECOSOCIAL).
 
-I visited the **University of California, Berkeley**, hosted by **Emmanuel Saez** during the **2025 Spring semester**.
+My research lies in the field of **Public Economics** and especially taxation where I combine both theoretical and applied approaches. I am also very interested in Political Science and Social Choice.
 
-I am on the <span style="color:red">**2025/2026 academic job market**</span>.
 
-<span align = 'center' style="color:red">**References**</span>&nbsp;<a href="https://pierrecboyer.com/">Pierre Boyer</a>&nbsp; <a href="https://faculty.crest.fr/mvisser/">Michael Visser</a>  &nbsp;<a href = "https://www.bertrandgarbinti.com/">Bertrand Garbinti</a>&nbsp;<a href="https://eml.berkeley.edu/~saez/">Emmanuel Saez</a>
+<!-- <span align = 'center' style="color:red">**References**</span>&nbsp;<a href="https://pierrecboyer.com/">Pierre Boyer</a>&nbsp; <a href="https://faculty.crest.fr/mvisser/">Michael Visser</a>  &nbsp;<a href = "https://www.bertrandgarbinti.com/">Bertrand Garbinti</a>&nbsp;<a href="https://eml.berkeley.edu/~saez/">Emmanuel Saez</a> -->
 
 <!-- Secondarily, in studying robust and generalized econometric techniques such as partial identification or non-parametric econometrics, in order to apply them in my research. Additionally, I am curious about the Theory of the Firm and the way one can model production functions. -->
 __Contact__: [theo.valentin@ensae.fr](theo.valentin@ensae.fr)
@@ -42,6 +41,9 @@ Business creation by taxable income, across years (pre-reform in red, post-refor
 
 ## Working papers
 
+* **Taxing Digital Addiction**
+_Social media consumption relies on users' behavioral biases while also generating negative externalities, like tobacco and alcohol do, yet as opposed to these goods they are largely untaxed. This paper develops a model of optimal taxation of a monopoly platform running a social media that jointly invests in an addictive technology and sets its ad-load. While generating consumer surplus, the social media harms users through overconsumption from addiction and harms non-users through negative consumption externalities. Because addiction investment is observable only by the platform, the social planner relies on a tax on total engagement as an indirect corrective instrument. A key friction is that the platform can offset the tax by adjusting its ad-load, limiting its effectiveness. I characterize the optimal tax through a sufficient statistics formula: the tax equals a welfare-weighted sum of the elasticities of addiction, ad-load and engagement to the tax. When the welfare gains of reducing addiction are large, the tax rate reaches its upper bound through the platform's participation constraint and the social planner optimally extracts all platform surplus._
+
 * **Charitable Giving, Tax Design, and Tax Consent**, with G. Fack, B. Garbinti, J. Goupille-Lebret\
 _In this paper, we examine how the design of tax incentives for charitable giving influences donation behavior, and how non-monetary motives shape these responses.
     We focus on the French context, where a wealth tax has existed for several decades, and exploit multiple reforms that altered the marginal tax price of charitable gifts for wealth taxpayers.
@@ -53,7 +55,7 @@ _In this paper, we examine how the design of tax incentives for charitable givin
 
 ## Selected work in progress
 
-* **Taxing Digital Addiction**
+
 * **Optimal Corporate Taxation with Welfare Weights**
 
 
