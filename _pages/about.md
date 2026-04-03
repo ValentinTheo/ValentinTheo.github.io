@@ -41,7 +41,7 @@ The welfare implications of corporate tax reforms are made unclear by the variet
 
 ## Working papers
 
-* **Taxing Digital Addiction**
+* **Taxing Digital Addiction**  
 _Social media consumption relies on users' behavioral biases while also generating negative externalities, like tobacco and alcohol do, yet as opposed to these goods they are largely untaxed. This paper develops a model of optimal taxation of a monopoly platform running a social media that jointly invests in an addictive technology and sets its ad-load. While generating consumer surplus, the social media harms users through overconsumption from addiction and harms non-users through negative consumption externalities. Because addiction investment is observable only by the platform, the social planner relies on a tax on total engagement as an indirect corrective instrument. A key friction is that the platform can offset the tax by adjusting its ad-load, limiting its effectiveness. I characterize the optimal tax through a sufficient statistics formula: the tax equals a welfare-weighted sum of the elasticities of addiction, ad-load and engagement to the tax. When the welfare gains of reducing addiction are large, the tax rate reaches its upper bound through the platform's participation constraint and the social planner optimally extracts all platform surplus._
 
 * **Charitable Giving, Tax Design, and Tax Consent**, with G. Fack, B. Garbinti, J. Goupille-Lebret\
