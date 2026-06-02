@@ -12,7 +12,8 @@ I am a 4th year PhD candidate at [CREST](https://crest.science/), [ENSAE Paris](
 
 <!-- In September 2026 I will join [Sciences Po Paris](https://www.sciencespo.fr/recherche/en/) as a post-doctoral fellow working with [Julia Cagé](https://juliacage.com/fr/) on her ERC Consolidator Grant “Elections, Ecological Inference and Social Capital in Historical Perspective” (ECOSOCIAL). -->
 
-My research lies in the field of **Public Economics** and especially taxation where I combine both theoretical and applied approaches. I am also very interested in Political Science and Social Choice.
+My research lies in the field of **Public Economics** and especially taxation where I combine both theoretical and applied approaches.   
+I am also very interested in **Political Science and Social Choice**.
 
 
 <!-- <span align = 'center' style="color:red">**References**</span>&nbsp;<a href="https://pierrecboyer.com/">Pierre Boyer</a>&nbsp; <a href="https://faculty.crest.fr/mvisser/">Michael Visser</a>  &nbsp;<a href = "https://www.bertrandgarbinti.com/">Bertrand Garbinti</a>&nbsp;<a href="https://eml.berkeley.edu/~saez/">Emmanuel Saez</a> -->
@@ -43,6 +44,8 @@ The welfare implications of corporate tax reforms are made unclear by the variet
 * **Taxing Digital Addiction**  
 _Social media consumption relies on users' behavioral biases while also generating negative externalities, like tobacco and alcohol do, yet as opposed to these goods they are largely untaxed. This paper develops a model of optimal taxation of a monopoly platform running a social media that jointly invests in an addictive technology and sets its ad-load. While generating consumer surplus, the social media harms users through overconsumption from addiction and harms non-users through negative consumption externalities. Because addiction investment is observable only by the platform, the social planner relies on a tax on total engagement as an indirect corrective instrument. A key friction is that the platform can offset the tax by adjusting its ad-load, limiting its effectiveness. I characterize the optimal tax through a sufficient statistics formula: the tax equals a welfare-weighted sum of the elasticities of addiction, ad-load and engagement to the tax. When the welfare gains of reducing addiction are large, the tax rate reaches its upper bound through the platform's participation constraint and the social planner optimally extracts all platform surplus._
 
+**Paper presented at**: CREST Internal Seminar (2026), Doctoral Workshop on the Economics of Digitization (CESifo, Telecom Paris, TSE, 2026)  
+
 * **Charitable Giving, Tax Design, and Tax Consent**, with G. Fack, B. Garbinti, J. Goupille-Lebret\
 _In this paper, we examine how the design of tax incentives for charitable giving influences donation behavior, and how non-monetary motives shape these responses.
     We focus on the French context, where a wealth tax has existed for several decades, and exploit multiple reforms that altered the marginal tax price of charitable gifts for wealth taxpayers.
@@ -52,10 +55,14 @@ _In this paper, we examine how the design of tax incentives for charitable givin
     First, we find evidence of a strong attachment to charities: despite being able to benefit from a lower marginal price of gifts, many wealth taxpayers deliberately continue to pay the higher marginal price.
     Finally, when individuals lose eligibility for the wealth tax credit, we observe limited substitution toward the income tax credit, which suggests differential tax aversion depending on the tax base to which the incentive applies._
 
+**Paper presented at**: ERC PARTICIPATE Closing Conference (SciencesPo, 2026)
+
 ## Selected work in progress
 
-
-* **Optimal Corporate Taxation with Welfare Weights**  
+* **Optimal Corporate Taxation with Welfare Weights**
+* **Optimism, Tax Simplicity and Firm Entry**
+* **The Puzzle of Consensus: A Model of Deliberative Mini-Publics**
+* **Comparing the Costs: Assembly-Based Direct Democracy and Representative Electoral Democracy, First Evidence from France**
 
 
 ## Non-academic Publications & Papers
