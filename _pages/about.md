@@ -23,7 +23,7 @@ __Contact__: [theo.valentin@ensae.fr](theo.valentin@ensae.fr)
 
 ## Working papers
 
-* **Non-linear Corporate Income Tax: Learning, Intensive and Extensive Margins**  
+* **A Costly Transfer: Attention, Avoidance and Entry after a Corporate Tax Cut**  
 Do corporate tax cuts achieve their aim once the full range of firm responses is accounted for? I study a 2001 French reform that introduced a reduced corporate rate on profits below a threshold, and use exhaustive administrative data to measure firms' real, avoidance, extensive, and attention responses that I integrate in a welfare framework. I find that the response of incumbent firms is almost entirely an accounting phenomenon: real activity, \textit{i.e.} sales, employment, and payouts, does not move detectably, and the implied elasticity of reported corporate income is small, rising from 0.07 to 0.11 over the post-reform period as firms learn. 
 The reform exhibits, however, a sizable increase in corporate entry of 38\% relative to personal entry.
 Yet, a fraction of these new entries are split entities, personal-form incumbents creating corporate entities to shift income. Exploiting a French reporting requirement that lets me measure attention directly, I estimate that 21\% of firms fail to apply the new schedule in the first year, with inattention disappearing within three years and accounting for 74\% of the elasticity's short-run attenuation. Inattention is costly and is equivalent to a 25\% surtax on income relative to attentive firms. 
