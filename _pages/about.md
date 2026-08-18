@@ -24,7 +24,10 @@ __Contact__: [theo.valentin@ensae.fr](theo.valentin@ensae.fr)
 ## Working papers
 
 * **Non-linear Corporate Income Tax: Learning, Intensive and Extensive Margins**  
-The welfare implications of corporate tax reforms are made unclear by the variety of effects they generate. This paper estimates both the effect of frictions, especially attention, on the corporate taxable income elasticity and the business creation effect of corporate tax reforms. I study a reform in France that replaced the existing flat corporate income tax with a threshold-based two-rates progressive system. I rely on detailed administrative tax data and exploit a unique institutional feature, the reported tax amount. First, I infer that at most 19% of firms are inattentive to tax reforms, _i.e._ they use the pre-reform tax code instead of the current one. This implies a cost of inattention of 1.8% of their taxable income. Second, I exploit the excess mass at the threshold to estimate the elasticity and show that overall frictions attenuate it by 39% in the short-run.  Third, I find a sizeable positive business creation effect of the reform. Using a two-way fixed effects PPML event-study design combined with treatment intensity variation at the county level, I estimate an average treatment effect of 15%. However, unincorporated businesses reacted to the lower average corporate tax rate by incorporating and by splitting revenues across multiple entities. This creates a pure tax revenue loss. Although this response is highly sensitive, rising by 45%, its magnitude remains limited. Overall, the welfare gains of moving from a linear corporate income tax to a progressive schedule are driven by business entry.
+Do corporate tax cuts achieve their aim once the full range of firm responses is accounted for? I study a 2001 French reform that introduced a reduced corporate rate on profits below a threshold, and use exhaustive administrative data to measure firms' real, avoidance, extensive, and attention responses that I integrate in a welfare framework. I find that the response of incumbent firms is almost entirely an accounting phenomenon: real activity, \textit{i.e.} sales, employment, and payouts, does not move detectably, and the implied elasticity of reported corporate income is small, rising from 0.07 to 0.11 over the post-reform period as firms learn. 
+The reform exhibits, however, a sizable increase in corporate entry of 38\% relative to personal entry.
+Yet, a fraction of these new entries are split entities, personal-form incumbents creating corporate entities to shift income. Exploiting a French reporting requirement that lets me measure attention directly, I estimate that 21\% of firms fail to apply the new schedule in the first year, with inattention disappearing within three years and accounting for 74\% of the elasticity's short-run attenuation. Inattention is costly and is equivalent to a 25\% surtax on income relative to attentive firms. 
+Together, these results imply that the reform's return is concentrated on the entry margin rather than the inframarginal transfer to incumbents, which is costly but yields no detectable effect other than avoidance.
 
 
 <!-- Firms' reported tax amount (dotted) and true tax code (plain) before and after the reforms (2001-2002)
@@ -42,18 +45,34 @@ The welfare implications of corporate tax reforms are made unclear by the variet
 
 
 * **Taxing Digital Addiction**  
-_Social media consumption relies on users' behavioral biases while also generating negative externalities, like tobacco and alcohol do, yet as opposed to these goods they are largely untaxed. This paper develops a model of optimal taxation of a monopoly platform running a social media that jointly invests in an addictive technology and sets its ad-load. While generating consumer surplus, the social media harms users through overconsumption from addiction and harms non-users through negative consumption externalities. Because addiction investment is observable only by the platform, the social planner relies on a tax on total engagement as an indirect corrective instrument. A key friction is that the platform can offset the tax by adjusting its ad-load, limiting its effectiveness. I characterize the optimal tax through a sufficient statistics formula: the tax equals a welfare-weighted sum of the elasticities of addiction, ad-load and engagement to the tax. When the welfare gains of reducing addiction are large, the tax rate reaches its upper bound through the platform's participation constraint and the social planner optimally extracts all platform surplus._
+_A substantial fraction of social media consumption relies on users' behavioral biases. Yet as opposed to standard sin goods, \textit{e.g.} tobacco and sodas, they are freed from corrective taxation. This paper develops a model of optimal taxation of a monopoly platform running a social media that jointly invests in an addictive technology and sets its ad-load. While generating consumer surplus, the social media harms users through overconsumption from addiction and harms non-users through negative consumption externalities. Because addiction investment is observable only by the platform, the social planner relies on a tax on total engagement as an indirect corrective instrument. A key friction is that the platform can offset the tax by adjusting its ad-load, limiting its effectiveness. I characterize the optimal tax through a sufficient statistics formula: the tax equals a welfare-weighted sum of the elasticities of addiction, ad-load and engagement to the tax. When the welfare gains of reducing addiction are large, the tax rate reaches its upper bound through the platform's participation constraint and the social planner optimally extracts all platform surplus._
+
+_Awards:_ Best Paper Award of the 9th Doctoral Workshop on the Economics of Digitization, sponsored by CESifo. 
 
 **Paper presented at**: CREST Internal Seminar (2026), Doctoral Workshop on the Economics of Digitization (CESifo, Telecom Paris, TSE, 2026)  
 
 * **Charitable Giving, Tax Design, and Tax Consent**, with G. Fack, B. Garbinti, J. Goupille-Lebret\
-_In this paper, we examine how the design of tax incentives for charitable giving influences donation behavior, and how non-monetary motives shape these responses.
-    We focus on the French context, where a wealth tax has existed for several decades, and exploit multiple reforms that altered the marginal tax price of charitable gifts for wealth taxpayers.
-    Our analysis draws on rich French administrative panel data linking the universe of income tax returns with the universe of wealth tax returns.
-    We document strong heterogeneity in charitable giving behavior between wealth taxpayers and those subject only to the income tax, and we develop a conceptual framework to rationalize this finding.
-    Using tax variation induced by the reforms, we study the main channels driving behavioral responses.
-    First, we find evidence of a strong attachment to charities: despite being able to benefit from a lower marginal price of gifts, many wealth taxpayers deliberately continue to pay the higher marginal price.
-    Finally, when individuals lose eligibility for the wealth tax credit, we observe limited substitution toward the income tax credit, which suggests differential tax aversion depending on the tax base to which the incentive applies._
+_Charitable giving is widely subsidized through the tax system, and the design 
+  of these subsidies relies heavily on estimates of the tax-price elasticity of
+  giving. Yet charitable tax incentives differ along dimensions beyond their    
+  generosity, including which tax liabilities they offset and which         
+  organizations they make eligible.
+In this paper, we study wealthy taxpayers, who can simultaneously reduce their tax
+  liabilities through charitable giving via both an income tax credit and a
+  wealth tax credit in France. We investigate the existence of resistance to wealth taxation, which can generate responses to changes in the wealth tax credit that are disproportionate relative to the statutory   price change: a household that donates instrumentally to reduce its wealth tax may drastically reduce its giving when the wealth tax credit disappears,  rather than substituting toward the income tax credit.
+We provide empirical evidence of this large sensitivity to the wealth tax deduction exploiting two complementary reforms to the French tax system. The
+  2011 and 2018 reforms changed wealthy taxpayers' access to a 75 percent wealth
+   tax credit for charitable donations while leaving unchanged the existing 66
+  percent income tax credit. Combining these reforms with exhaustive French     
+  administrative tax records, we show that losing access to the wealth tax
+  credit leads to a large decline in total charitable giving and little         
+  substitution toward the income tax credit. The implied price elasticity of
+donations ranges from $-1.6$ to $-2.0$, consistent across both
+  reforms and different segments of the wealth distribution. This large response is difficult to reconcile
+  with existing estimates of the income-tax-price elasticity of giving, and is
+  consistent with the existence of wealth tax resistance among wealthy donors. Our findings
+  suggest that the effectiveness of charitable tax incentives depends not only
+  on their generosity but also on the tax they offset and the organizations they subsidize._
 
 **Paper presented at**: ERC PARTICIPATE Closing Conference (SciencesPo, 2026)
 
